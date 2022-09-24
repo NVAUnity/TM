@@ -7,6 +7,10 @@
         --container-padding: 30px;
     }
     
+    .body {
+        overflow-x: hidden;
+    }
+    
     .container {
         max-width: var(--max-width);
         padding: 0 var(--container-padding);
